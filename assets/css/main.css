@@ -2622,4 +2622,35 @@ input, select, textarea {
 	height: 200px;
 	width: 200px;
 	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+.lang-icon {
+	height: 100px;
+	width: 100px;
+	margin: 5px;
+}
+
+.project-box {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+.project-box p {
+	text-align: left;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+.proj-img {
+	margin-top: 65px;
+	margin-right: 20px;
+	height: 15%;
+	width: 30%;
+	border: 4px solid #666;
+}
+
+.skills-div {
+
 }
