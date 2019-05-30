@@ -2238,7 +2238,11 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				/* background-image: url("../../images/banner.jpg"); */
+				/* background-image: url("../../images/luge_photo.jpg"); */
+				background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.7) ), url("../../images/luge_photo copy.jpg");
+				background-size: cover;
+				/* filter: blur(2px); */
 			}
 
 			#main > section.two {
